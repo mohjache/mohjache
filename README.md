@@ -1,14 +1,52 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=Hello&fontSize=90&theme=tokyonight)
 
 ## I'm Anaru👋
+:shipit: Currently building out SaaS products with: 
+```yaml 
+FrontEnd: NextJS
+Backend/State Management: Convex
+Auth: Clerk
+Payments: Polar.sh
+```
 
-:shipit: Currently building out SaaS products (with NextJS, Shadcn, Convex, Clerk).
+🔨 During the day I'm using
+<table >
+  <tr>
+    <td>
+<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" />
+      </td>
+    <td>
+<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />          </td>
+    <td>
+      
+  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
+          
+  </td>
+    <td>
+<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg" />
+    </td>
+    <td>
 
-📫Reach out on
+ <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />
+          
+</td>
+  </tr>
+</table>
+          
+
+<p align="center">
+<img height="300" src="https://github.com/user-attachments/assets/fde68723-5522-4693-96bc-523291a6917d" style="" />
+</p>
+
+
+
+## 📫Let Connect On 
 
 <a href="https://www.linkedin.com/in/anaru-herbert-709860a4/" target="_blank">
 <img height="50" src="https://github.com/user-attachments/assets/00c317f4-4d70-45b6-8b17-9e42db5f1afe"/>
 </a>
+
+
 
 
 <!--
