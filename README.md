@@ -1,4 +1,6 @@
-## Hi there I'm Anaru👋
+![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=Hello&fontSize=90&theme=tokyonight)
+
+## I'm Anaru👋
 
 I’m currently working on building out SaaS products as fast as possible utilising as many pre built/AI tools to speed up developer (current :shipit: with NextJS, Shadcn, Convex, Clerk).
 
