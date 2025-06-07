@@ -34,9 +34,9 @@ Payments: Polar.sh
 </table>
           
 
-<p align="center">
+
 <img height="300" src="https://github.com/user-attachments/assets/fde68723-5522-4693-96bc-523291a6917d" style="" />
-</p>
+
 
 
 
