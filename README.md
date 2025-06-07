@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi there I'm Anaru👋
+
+I’m currently working on building out SaaS products as fast as possible utilising as many pre built/AI tools to speed up developer (current :shipit: with NextJS, Shadcn, Convex, Clerk).
+
+📫Reach out on  [LinkedIn](https://www.linkedin.com/in/anaru-herbert-709860a4/)
 
 <!--
 **mohjache/mohjache** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
